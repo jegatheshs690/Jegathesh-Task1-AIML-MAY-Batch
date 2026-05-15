@@ -1,4 +1,4 @@
-# Python Mini Projects
+# AIML beginner friendly task1
 
 This repository contains beginner-friendly Python projects.
 
